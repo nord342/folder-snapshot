@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Output files (users generate these locally)
+Folder Snapshot.txt
+Folder Snapshot.csv
