@@ -1,26 +1,30 @@
 Folder,File Name,Type,Extension,Size,Size (bytes),Full Path
-Resources,Bonus Audio.mp3,Audio,.mp3,22.0 MB,23068672,Resources/Bonus Audio.mp3
-Resources,Course Workbook.pdf,PDF,.pdf,4.0 MB,4194304,Resources/Course Workbook.pdf
-Resources,Reading List.docx,Document,.docx,28.0 KB,28672,Resources/Reading List.docx
-Week 1 - Getting Started,01. Introduction.mp4,Video,.mp4,180.0 MB,188743680,Week 1 - Getting Started/01. Introduction.mp4
-Week 1 - Getting Started,02. Setting Up Your Environment.mp4,Video,.mp4,95.0 MB,99614720,Week 1 - Getting Started/02. Setting Up Your Environment.mp4
-Week 1 - Getting Started,Worksheet 1.pdf,PDF,.pdf,320.0 KB,327680,Week 1 - Getting Started/Worksheet 1.pdf
-Week 2 - Core Concepts,03. Deep Dive Part 1.mp4,Video,.mp4,420.0 MB,440401920,Week 2 - Core Concepts/03. Deep Dive Part 1.mp4
-Week 2 - Core Concepts,04. Deep Dive Part 2.mp4,Video,.mp4,380.0 MB,398458880,Week 2 - Core Concepts/04. Deep Dive Part 2.mp4
-Week 2 - Core Concepts,Notes.docx,Document,.docx,48.0 KB,49152,Week 2 - Core Concepts/Notes.docx
-Week 2 - Core Concepts,Slides.pptx,Presentation,.pptx,2.0 MB,2097152,Week 2 - Core Concepts/Slides.pptx
-Week 3 - Advanced,05. Advanced Techniques.mp4,Video,.mp4,510.0 MB,534773760,Week 3 - Advanced/05. Advanced Techniques.mp4
-Week 3 - Advanced,Cheat Sheet.pdf,PDF,.pdf,180.0 KB,184320,Week 3 - Advanced/Cheat Sheet.pdf
-(root),README.txt,Document,.txt,1.0 KB,1024,README.txt
+Archive,assets_2023.zip,Archive,.zip,85.0 MB,89128960,Archive/assets_2023.zip
+Archive,old_backups.zip,Archive,.zip,220.0 MB,230686720,Archive/old_backups.zip
+Documents/Contracts,NDA Agreement.pdf,PDF,.pdf,420.0 KB,430080,Documents/Contracts/NDA Agreement.pdf
+Documents/Contracts,Service Agreement.pdf,PDF,.pdf,380.0 KB,389120,Documents/Contracts/Service Agreement.pdf
+Documents/Reports,Annual Summary.docx,Document,.docx,240.0 KB,245760,Documents/Reports/Annual Summary.docx
+Documents/Reports,Q1 Report.xlsx,Spreadsheet,.xlsx,1.2 MB,1228800,Documents/Reports/Q1 Report.xlsx
+Documents/Reports,Q2 Report.xlsx,Spreadsheet,.xlsx,980.0 KB,1003520,Documents/Reports/Q2 Report.xlsx
+Photos/2024/Family,birthday.jpg,Image,.jpg,4.0 MB,4194304,Photos/2024/Family/birthday.jpg
+Photos/2024/Family,christmas.jpg,Image,.jpg,6.0 MB,6291456,Photos/2024/Family/christmas.jpg
+Photos/2024/Holiday,beach.jpg,Image,.jpg,4.0 MB,4194304,Photos/2024/Holiday/beach.jpg
+Photos/2024/Holiday,city.jpg,Image,.jpg,5.0 MB,5242880,Photos/2024/Holiday/city.jpg
+Photos/2024/Holiday,sunset.jpg,Image,.jpg,3.0 MB,3145728,Photos/2024/Holiday/sunset.jpg
+Projects/Website,app.js,Code,.js,34.0 KB,34816,Projects/Website/app.js
+Projects/Website,index.html,Code,.html,18.0 KB,18432,Projects/Website/index.html
+Projects/Website,style.css,Code,.css,9.0 KB,9216,Projects/Website/style.css
+(root),README.txt,Document,.txt,2.0 KB,2048,README.txt
 
 SUMMARY
-Total files,13
-Total folders,4
-Total size,1.58 GB
+Total files,16
+Total folders,10
+Total size,330.2 MB
 
 Type,File Count,Total Size
-Audio,1,22.0 MB
-Document,3,77.0 KB
-PDF,3,4.5 MB
-Presentation,1,2.0 MB
-Video,5,1.55 GB
+Archive,2,305.0 MB
+Code,3,61.0 KB
+Document,2,242.0 KB
+Image,5,22.0 MB
+PDF,2,800.0 KB
+Spreadsheet,2,2.1 MB

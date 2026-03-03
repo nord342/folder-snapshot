@@ -1,38 +1,48 @@
 FOLDER SNAPSHOT
-Folder  : sample_course
-Created : 2026-03-03 21:18
+Folder  : sample_folder
+Created : 2026-03-03 21:26
 ========================================================================
 
-sample_course/
-├── Resources/
-│   ├── Bonus Audio.mp3  [22.0 MB]
-│   ├── Course Workbook.pdf  [4.0 MB]
-│   └── Reading List.docx  [28.0 KB]
-├── Week 1 - Getting Started/
-│   ├── 01. Introduction.mp4  [180.0 MB]
-│   ├── 02. Setting Up Your Environment.mp4  [95.0 MB]
-│   └── Worksheet 1.pdf  [320.0 KB]
-├── Week 2 - Core Concepts/
-│   ├── 03. Deep Dive Part 1.mp4  [420.0 MB]
-│   ├── 04. Deep Dive Part 2.mp4  [380.0 MB]
-│   ├── Notes.docx  [48.0 KB]
-│   └── Slides.pptx  [2.0 MB]
-├── Week 3 - Advanced/
-│   ├── 05. Advanced Techniques.mp4  [510.0 MB]
-│   └── Cheat Sheet.pdf  [180.0 KB]
-└── README.txt  [1.0 KB]
+sample_folder/
+├── Archive/
+│   ├── assets_2023.zip  [85.0 MB]
+│   └── old_backups.zip  [220.0 MB]
+├── Documents/
+│   ├── Contracts/
+│   │   ├── NDA Agreement.pdf  [420.0 KB]
+│   │   └── Service Agreement.pdf  [380.0 KB]
+│   └── Reports/
+│       ├── Annual Summary.docx  [240.0 KB]
+│       ├── Q1 Report.xlsx  [1.2 MB]
+│       └── Q2 Report.xlsx  [980.0 KB]
+├── Photos/
+│   └── 2024/
+│       ├── Family/
+│       │   ├── birthday.jpg  [4.0 MB]
+│       │   └── christmas.jpg  [6.0 MB]
+│       └── Holiday/
+│           ├── beach.jpg  [4.0 MB]
+│           ├── city.jpg  [5.0 MB]
+│           └── sunset.jpg  [3.0 MB]
+├── Projects/
+│   └── Website/
+│       ├── app.js  [34.0 KB]
+│       ├── index.html  [18.0 KB]
+│       └── style.css  [9.0 KB]
+└── README.txt  [2.0 KB]
 
 ========================================================================
   SUMMARY
 ========================================================================
-  Total files   : 13
-  Total folders : 4
-  Total size    : 1.58 GB
+  Total files   : 16
+  Total folders : 10
+  Total size    : 330.2 MB
 
   Files by type:
-    Audio              1 file(s)   22.0 MB
-    Document           3 file(s)   77.0 KB
-    PDF                3 file(s)   4.5 MB
-    Presentation       1 file(s)   2.0 MB
-    Video              5 file(s)   1.55 GB
+    Archive            2 file(s)   305.0 MB
+    Code               3 file(s)   61.0 KB
+    Document           2 file(s)   242.0 KB
+    Image              5 file(s)   22.0 MB
+    PDF                2 file(s)   800.0 KB
+    Spreadsheet        2 file(s)   2.1 MB
 ========================================================================
