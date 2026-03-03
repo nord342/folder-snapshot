@@ -151,7 +151,7 @@ Files are automatically detected and grouped by type in the summary:
 
 ## Import CSV into Google Sheets or Excel
 
-1. Open [Google Sheets](https://sheets.google.com) → **File → Import**
+1. Open [Google Sheets](https://sheets.google.com) or Excel → **File → Import**
 2. Upload `Folder Snapshot.csv`
 3. Set separator to **Comma** → Import
 
