@@ -2,7 +2,7 @@
 
 A simple command-line tool that scans any folder and generates a **complete file tree overview** — with file sizes, file types, and folder summaries — exported as both a plain-text file and a CSV you can open in Google Sheets or Excel.
 
-Works with any files: videos, PDFs, Word documents, spreadsheets, images, ZIPs, audio files, and more.
+Works with any files: videos, images, PDFs, Word documents, pictures, spreadsheets, images, ZIPs, audio files, and more.
 
 ---
 
