@@ -1,0 +1,38 @@
+FOLDER SNAPSHOT
+Folder  : sample_course
+Created : 2026-03-03 21:18
+========================================================================
+
+sample_course/
+├── Resources/
+│   ├── Bonus Audio.mp3  [22.0 MB]
+│   ├── Course Workbook.pdf  [4.0 MB]
+│   └── Reading List.docx  [28.0 KB]
+├── Week 1 - Getting Started/
+│   ├── 01. Introduction.mp4  [180.0 MB]
+│   ├── 02. Setting Up Your Environment.mp4  [95.0 MB]
+│   └── Worksheet 1.pdf  [320.0 KB]
+├── Week 2 - Core Concepts/
+│   ├── 03. Deep Dive Part 1.mp4  [420.0 MB]
+│   ├── 04. Deep Dive Part 2.mp4  [380.0 MB]
+│   ├── Notes.docx  [48.0 KB]
+│   └── Slides.pptx  [2.0 MB]
+├── Week 3 - Advanced/
+│   ├── 05. Advanced Techniques.mp4  [510.0 MB]
+│   └── Cheat Sheet.pdf  [180.0 KB]
+└── README.txt  [1.0 KB]
+
+========================================================================
+  SUMMARY
+========================================================================
+  Total files   : 13
+  Total folders : 4
+  Total size    : 1.58 GB
+
+  Files by type:
+    Audio              1 file(s)   22.0 MB
+    Document           3 file(s)   77.0 KB
+    PDF                3 file(s)   4.5 MB
+    Presentation       1 file(s)   2.0 MB
+    Video              5 file(s)   1.55 GB
+========================================================================

@@ -1,0 +1,26 @@
+Folder,File Name,Type,Extension,Size,Size (bytes),Full Path
+Resources,Bonus Audio.mp3,Audio,.mp3,22.0 MB,23068672,Resources/Bonus Audio.mp3
+Resources,Course Workbook.pdf,PDF,.pdf,4.0 MB,4194304,Resources/Course Workbook.pdf
+Resources,Reading List.docx,Document,.docx,28.0 KB,28672,Resources/Reading List.docx
+Week 1 - Getting Started,01. Introduction.mp4,Video,.mp4,180.0 MB,188743680,Week 1 - Getting Started/01. Introduction.mp4
+Week 1 - Getting Started,02. Setting Up Your Environment.mp4,Video,.mp4,95.0 MB,99614720,Week 1 - Getting Started/02. Setting Up Your Environment.mp4
+Week 1 - Getting Started,Worksheet 1.pdf,PDF,.pdf,320.0 KB,327680,Week 1 - Getting Started/Worksheet 1.pdf
+Week 2 - Core Concepts,03. Deep Dive Part 1.mp4,Video,.mp4,420.0 MB,440401920,Week 2 - Core Concepts/03. Deep Dive Part 1.mp4
+Week 2 - Core Concepts,04. Deep Dive Part 2.mp4,Video,.mp4,380.0 MB,398458880,Week 2 - Core Concepts/04. Deep Dive Part 2.mp4
+Week 2 - Core Concepts,Notes.docx,Document,.docx,48.0 KB,49152,Week 2 - Core Concepts/Notes.docx
+Week 2 - Core Concepts,Slides.pptx,Presentation,.pptx,2.0 MB,2097152,Week 2 - Core Concepts/Slides.pptx
+Week 3 - Advanced,05. Advanced Techniques.mp4,Video,.mp4,510.0 MB,534773760,Week 3 - Advanced/05. Advanced Techniques.mp4
+Week 3 - Advanced,Cheat Sheet.pdf,PDF,.pdf,180.0 KB,184320,Week 3 - Advanced/Cheat Sheet.pdf
+(root),README.txt,Document,.txt,1.0 KB,1024,README.txt
+
+SUMMARY
+Total files,13
+Total folders,4
+Total size,1.58 GB
+
+Type,File Count,Total Size
+Audio,1,22.0 MB
+Document,3,77.0 KB
+PDF,3,4.5 MB
+Presentation,1,2.0 MB
+Video,5,1.55 GB
